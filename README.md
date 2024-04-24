@@ -1,0 +1,1 @@
+This script is designed to parse data about products from the Wildberries website (https://www.wildberries.ru/). It utilizes the Selenium and openpyxl libraries to automate the parsing process and save the data into an Excel file.
